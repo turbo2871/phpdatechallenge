@@ -1,2 +1,5 @@
+.idea/
+composer
 vendor
 composer.lock
+src/testMydate.php
